@@ -3,46 +3,46 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-🤗 Hello {}
+🤗 𝐇𝐞𝐥𝐥𝐨 {}
 
-I Am Telegram URL Uploader Bot.
+𝐈 𝐀𝐦 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐔𝐑𝐋 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐫 𝟐𝟒 𝐁𝐨𝐭.
 
-**__Send me a direct link and I will upload it to telegram as a file/video.__**
+**__𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚 𝐝𝐢𝐫𝐞𝐜𝐭 𝐥𝐢𝐧𝐤 𝐚𝐧𝐝 𝐈 𝐰𝐢𝐥𝐥 𝐮𝐩𝐥𝐨𝐚𝐝 𝐢𝐭 𝐭𝐨 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 𝐚 𝐟𝐢𝐥𝐞/𝐯𝐢𝐝𝐞𝐨..__**
 
-**Use Help Button To Know How To Use Me**
+**𝐔𝐬𝐞 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐓𝐨 𝐊𝐧𝐨𝐰 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞**
 """
     HELP_TEXT = """
-𒊹︎︎︎ How To Upload File Or Media 
+𒊹︎︎︎ 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐩𝐥𝐨𝐚𝐝 𝐅𝐢𝐥𝐞 𝐎𝐫 𝐌𝐞𝐝𝐢𝐚 
 
-➪ Send Your Link For Upload File Or Media.
+➪ 𝐒𝐞𝐧𝐝 𝐘𝐨𝐮𝐫 𝐋𝐢𝐧𝐤 𝐅𝐨𝐫 𝐔𝐩𝐥𝐨𝐚𝐝 𝐅𝐢𝐥𝐞 𝐎𝐫 𝐌𝐞𝐝𝐢𝐚.
 
-𒊹︎︎︎ How to set thumbnail
+𒊹︎︎︎ 𝐇𝐨𝐰 𝐭𝐨 𝐬𝐞𝐭 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥
 
-➪ Send Your Thumbnail Photo And Permanent Added Your Photo.
+➪ 𝐒𝐞𝐧𝐝 𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐏𝐡𝐨𝐭𝐨 𝐀𝐧𝐝 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐞𝐝 𝐘𝐨𝐮𝐫 𝐏𝐡𝐨𝐭𝐨.
 
-𒊹︎︎︎ How To Deleting Thumbnail
+𒊹︎︎︎ 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐥𝐞𝐭𝐢𝐧𝐠 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥
 
-➪ Send /delthumb To Delete Your Thumbnail.
+➪ 𝐒𝐞𝐧𝐝 /delthumb 𝐓𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥.
 
-𒊹︎︎︎ How To Show Thumbnail 
+𒊹︎︎︎ 𝐇𝐨𝐰 𝐓𝐨 𝐒𝐡𝐨𝐰 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 
 
-➪ Send /showthumb To View Custom Thumbnail 
+➪ 𝐒𝐞𝐧𝐝 /showthumb 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 𝐌𝐘 𝐍𝐀𝐌𝐄** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
 
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
+**❤️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍** : [2.3 🔥](http://t.me/UploadFlieBot)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Click✨](https://t.me/sunriseseditsoffical6)
 
-**🧿 Language** : [Python 3.10.11](https://www.python.org/)
+**📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒** : [𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐔𝐏𝐃𝐀𝐓𝐄𝐒](https://t.me/Sunrises_Bot_discussion_Group)
 
-**📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
-
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_LK)
+**🧑🏻‍💻 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑** : [𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐇𝐀𝐑𝐒𝐇𝐀✨](https://t.me/SUNRISES_24)
 
 """
+
+
 
 
     PROGRESS = """
@@ -96,7 +96,7 @@ I Am Telegram URL Uploader Bot.
     UPLOAD_START = "📤 Uploading.."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : SUNRISES_24 💕\nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✔️"

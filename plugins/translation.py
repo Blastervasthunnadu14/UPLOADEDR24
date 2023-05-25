@@ -30,9 +30,9 @@ class Translation(object):
  
 """
     ABOUT_TEXT = """
-**📛 𝐌𝐘 𝐍𝐀𝐌𝐄** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 𝐌𝐘 𝐍𝐀𝐌𝐄** : [𝐔𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝟐𝟒 𝐁𝐎𝐓 ✨](https://t.me/UPLOADER24BOT)
 
-**❤️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍** : [2.3 🔥](http://t.me/UploadFlieBot)
+**❤️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍** : [2.3 🔥](https://t.me/UPLOADER24BOT)
 
 **🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Click✨](https://t.me/sunriseseditsoffical6)
 
@@ -55,26 +55,26 @@ class Translation(object):
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Settings', callback_data='OpenSettings')
+        InlineKeyboardButton('⚙️Settings', callback_data='OpenSettings')
         ],[
-        InlineKeyboardButton('Help', callback_data='help'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('🌟Help', callback_data='help'),
+        InlineKeyboardButton('🧑🏻‍💻About', callback_data='about')
         ],[
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('⛔Close', callback_data='close')
         ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Back', callback_data='home'),
-        InlineKeyboardButton('About', callback_data='about')
+        InlineKeyboardButton('🔙Back', callback_data='home'),
+        InlineKeyboardButton('🧑🏻‍💻About', callback_data='about')
         ],[
-        InlineKeyboardButton('Close', callback_data='close')
+        InlineKeyboardButton('⛔Close', callback_data='close')
         ]]
     )
     ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Back', callback_data='home'),
-        InlineKeyboardButton('Help', callback_data='help')
+        InlineKeyboardButton('🔙Back', callback_data='home'),
+        InlineKeyboardButton('🌟Help', callback_data='help')
         ],[
         InlineKeyboardButton('🔒 Close', callback_data='close')
         ]]

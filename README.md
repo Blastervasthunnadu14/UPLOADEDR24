@@ -25,7 +25,7 @@ showthumb - Showing Your Thumbnail 🏞
 4. `DATABASE_URL` : Your mongodb url obtained from [mongodb.com](https://www.mongodb.com)
 5. `OWNER_ID` : Your telegram I'd use this bot [@Uploader24Bot](https://telegram.dog/UploadLinkToFileBot) and use `/info`
 6. `BOT_USERNAME` : Your Bot Username Without @
-7. `DEF_THUMB_NAIL_VID_S` : Add your thumbnail pic from @@TGMULTI24BOT
+7. `DEF_THUMB_NAIL_VID_S` : Add your thumbnail pic from @TGMULTI24BOT
 8. `UPDATES_CHANNEL` : Your Update channel id or skip
 9. `OWNER_ID` : Your Telegram ID
 10. `LOG_CHANNEL` : Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission

@@ -34,11 +34,11 @@ class Translation(object):
 
 **❤️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍** : [2.3 🔥](https://t.me/UPLOADER24BOT)
 
-**🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Click✨](https://t.me/sunriseseditsoffical6)
+**🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Click This To Join Our Main Channel](https://t.me/Blaster_Originals)
 
-**📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒** : [𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐔𝐏𝐃𝐀𝐓𝐄𝐒](https://t.me/Sunrises_Bot_discussion_Group)
+**📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒** : [BLASTER ORIGINALS](https://t.me/Blaster_Support_Grouo)
 
-**🧑🏻‍💻 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑** : [𝐒𝐔𝐍𝐑𝐈𝐒𝐄𝐒 𝐇𝐀𝐑𝐒𝐇𝐀✨](https://t.me/SUNRISES_24)
+**🧑🏻‍💻 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑** : [ANNA VACHADU 🤓💥](https://t.me/BlasterOriginals)
 
 """
 

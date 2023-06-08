@@ -34,9 +34,9 @@ class Translation(object):
 
 **❤️ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍** : [2.3 🔥](https://t.me/UPLOADER24BOT)
 
-**🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Click This To Join Our Main Channel](https://t.me/Blaster_Originals)
+**🎬 𝐂𝐇𝐀𝐍𝐍𝐄𝐋** : [Okkasari Click Cheyandi Bro 😃😁](https://t.me/Blaster_Originals)
 
-**📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒** : [BLASTER ORIGINALS](https://t.me/Blaster_Support_Grouo)
+**📢 𝐔𝐏𝐃𝐀𝐓𝐄𝐒** : [BLASTER ORIGINALS](https://t.me/Blaster_Originals)
 
 **🧑🏻‍💻 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑** : [ANNA VACHADU 🤓💥](https://t.me/BlasterOriginals)
 
